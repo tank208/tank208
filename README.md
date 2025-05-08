@@ -1,6 +1,6 @@
 # 👨‍💻 William Hall — Systems-Focused Developer
 
-_Aerospace technician turned computer science student._  
+_Aerospace technician turned systems-focused developer | C++, Linux, PLCs, embedded logic_
 Building high-integrity systems with C++, Python, and Linux.  
 Grounded in team reliability, process discipline, and embedded systems thinking.
 
@@ -42,8 +42,8 @@ Grounded in team reliability, process discipline, and embedded systems thinking.
 
 ## 🎓 Academic Path
 
-- North Idaho College (CS + Cybersecurity)
-- Transferring to University of Idaho – CDA  
+- North Idaho College CS
+- University of Idaho – CDA Cybersecurity/ICS/OT 
 - Research assistant: PLC lab integration, embedded device tooling
 
 ---
