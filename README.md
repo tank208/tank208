@@ -1,4 +1,4 @@
-# 👨‍💻 William Hall — Systems-Focused Developer
+# William Hall — Systems-Focused Developer
 
 _Aerospace technician turned systems-focused developer | C++, Linux, PLCs, embedded logic_
 Building high-integrity systems with C++, Python, and Linux.  
@@ -6,7 +6,7 @@ Grounded in team reliability, process discipline, and embedded systems thinking.
 
 ---
 
-## 🔧 Technical Interests
+## Technical Interests
 
 - Embedded Linux development
 - UI/UX integration for technical tools
@@ -15,15 +15,15 @@ Grounded in team reliability, process discipline, and embedded systems thinking.
 
 ---
 
-## 🧩 Featured Projects
+## Featured Projects
 
-### 🔗 [PLC-Bridge](https://github.com/tank208/plc-bridge)
+### [PLC-Bridge](https://github.com/tank208/plc-bridge)
 > Python-based bridge between Linux and Arduino Opta PLC  
 > - Designed for industrial automation research  
 > - Supports USB serial communication, signal parsing, and safety fails  
 > - Modular structure for lab-based expansion and field use
 
-### 🎮 [Astral Arena](https://github.com/Argitechno/astral_arena)
+### [Astral Arena](https://github.com/Argitechno/astral_arena)
 > C++ SFML space dueling game with animated UI  
 > - Custom menu system: animated backgrounds, ESC hold-to-exit logic  
 > - Submenu placeholders, sound toggle, credits screen  
@@ -31,7 +31,7 @@ Grounded in team reliability, process discipline, and embedded systems thinking.
 
 ---
 
-## 🛠 Tools & Languages
+## Tools & Languages
 
 - C++, Python, Bash
 - SFML, serial comms, Arduino
@@ -40,7 +40,7 @@ Grounded in team reliability, process discipline, and embedded systems thinking.
 
 ---
 
-## 🎓 Academic Path
+## Academic Path
 
 - North Idaho College CS
 - University of Idaho – CDA Cybersecurity/ICS/OT 
