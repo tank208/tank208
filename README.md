@@ -19,7 +19,7 @@ Driven by process clarity, mission alignment, and systems resilience.
 
 ## Featured Projects
 
-### PLC Student Demo Platform
+### PLC Student Demo Platform *(Active Research)*
 **Research-grade PLC training system** built on Arduino Opta
 
 - Ladder Logic, IEC 61131-3, and Modbus TCP integration
@@ -34,6 +34,7 @@ Driven by process clarity, mission alignment, and systems resilience.
 - Serial USB communication with logic filtering
 - Supports automation safety protocols
 - Designed for modular integration with lab systems
+  → [PLC-Bridge Repo](https://github.com/tank208/plc-bridge)  
 
 ### Astral Arena *(archived)*
 **C++/SFML space dueling game** with animated UI
@@ -41,15 +42,32 @@ Driven by process clarity, mission alignment, and systems resilience.
 - Custom game menu, sound toggle, ESC-hold exit logic
 - Team-built with modular design for UI/UX exploration
 - Final project for CS151 at North Idaho College
+  → [Astral Arena Repo](https://github.com/tank208/astral-arena)
 
 ---
 
 ## Tools & Languages
 
-- **Languages:** C++, Python, Bash
-- **Platforms:** Pop!_OS, Ubuntu Server, Arduino Opta
-- **Tools:** SFML, serial comms, Docker, Git, CMake, VS Code
-- **Hardware:** PLCs, embedded I/O, industrial wiring
+**Programming & Scripting:**  
+C++, Python, Bash, IEC 61131-3 (Ladder Logic, Structured Text)
+
+**Development Environments:**  
+Arduino PLC IDE, VS Code, Arduino IDE, CMake, g++, make
+
+**Embedded Systems & Automation:**  
+Arduino Opta, Modbus TCP, SCADA (Ignition), DIN Simul8, serial comms, GPIO, I2C
+
+**Operating Systems:**  
+Pop!_OS, Ubuntu Server, Windows 11 Pro
+
+**Security & Networking:**  
+Docker, WireShark, Git, OpenSSH, Tailscale
+
+**Productivity & Documentation:**  
+Obsidian, OneNote, Markdown, GitHub Projects, Gantt charts
+
+**Research Tools:**  
+DEVLOG workflows, circuit documentation, curriculum mapping
 
 ---
 
@@ -58,6 +76,7 @@ Driven by process clarity, mission alignment, and systems resilience.
 - **North Idaho College** – A.S. Computer Science
 - **University of Idaho – CDA** – B.S. Cybersecurity (ICS/OT track)
 - **Research Assistant** – PLC lab integration, embedded system deployment
+- Currently building a research portfolio in embedded systems and ICS security for graduate study and lab deployment.
 
 > _“Structure systems. Defend mission. Protect purpose.”_  
 > **Personal Motto:** Structor systematum. Defensor propositi.
