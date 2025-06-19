@@ -26,7 +26,7 @@ Driven by process clarity, mission alignment, and systems resilience.
 - SCADA-ready via Ignition HMI
 - Curriculum modules, instructor guides, and DEVLOG tracking
 - Part of University of Idaho embedded systems research spine  
-  → [Repo](https://github.com/tank208/plc-student-demo-platform)
+  → [PLC Student Demo Platform](https://github.com/tank208/plc-student-demo-platform)
 
 ### PLC-Bridge
 **Python interface between Linux and Arduino Opta PLCs**
