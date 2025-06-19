@@ -1,53 +1,63 @@
 # William Hall — Systems-Focused Developer
 
-_Aerospace technician turned systems-focused developer | C++, Linux, PLCs, embedded logic_
-Building high-integrity systems with C++, Python, and Linux.  
-Grounded in team reliability, process discipline, and embedded systems thinking.
+Former aerospace technician turned control systems researcher.  
+Focused on building high-integrity platforms using C++, Python, and Linux.
+
+Rooted in embedded logic, industrial automation, and cybersecurity.  
+Driven by process clarity, mission alignment, and systems resilience.
 
 ---
 
 ## Technical Interests
 
-- Embedded Linux development
-- UI/UX integration for technical tools
-- Cybersecurity (red/blue team infrastructure)
+- Embedded Linux development and scripting
 - PLC control systems and industrial automation
+- Secure architecture for OT/ICS environments
+- UI/UX integration for technical and research tools
 
 ---
 
 ## Featured Projects
 
-### [PLC-Bridge](https://github.com/tank208/plc-bridge)
-> Python-based bridge between Linux and Arduino Opta PLC  
-> - Designed for industrial automation research  
-> - Supports USB serial communication, signal parsing, and safety fails  
-> - Modular structure for lab-based expansion and field use
+### PLC Student Demo Platform
+**Research-grade PLC training system** built on Arduino Opta
 
-### [Astral Arena](https://github.com/Argitechno/astral_arena)
-> C++ SFML space dueling game with animated UI  
-> - Custom menu system: animated backgrounds, ESC hold-to-exit logic  
-> - Submenu placeholders, sound toggle, credits screen  
-> - Designed for modular team integration (CS151 final project)
+- Ladder Logic, IEC 61131-3, and Modbus TCP integration
+- SCADA-ready via Ignition HMI
+- Curriculum modules, instructor guides, and DEVLOG tracking
+- Part of University of Idaho embedded systems research spine  
+  → [Repo](https://github.com/tank208/plc-student-demo-platform)
+
+### PLC-Bridge
+**Python interface between Linux and Arduino Opta PLCs**
+
+- Serial USB communication with logic filtering
+- Supports automation safety protocols
+- Designed for modular integration with lab systems
+
+### Astral Arena *(archived)*
+**C++/SFML space dueling game** with animated UI
+
+- Custom game menu, sound toggle, ESC-hold exit logic
+- Team-built with modular design for UI/UX exploration
+- Final project for CS151 at North Idaho College
 
 ---
 
 ## Tools & Languages
 
-- C++, Python, Bash
-- SFML, serial comms, Arduino
-- Git, Docker, Linux (Pop!_OS, Ubuntu Server)
-- VS Code, g++, CMake, Obsidian
+- **Languages:** C++, Python, Bash
+- **Platforms:** Pop!_OS, Ubuntu Server, Arduino Opta
+- **Tools:** SFML, serial comms, Docker, Git, CMake, VS Code
+- **Hardware:** PLCs, embedded I/O, industrial wiring
 
 ---
 
 ## Academic Path
 
-- North Idaho College CS
-- University of Idaho – CDA Cybersecurity/ICS/OT 
-- Research assistant: PLC lab integration, embedded device tooling
-
----
+- **North Idaho College** – A.S. Computer Science
+- **University of Idaho – CDA** – B.S. Cybersecurity (ICS/OT track)
+- **Research Assistant** – PLC lab integration, embedded system deployment
 
 > _“Structure systems. Defend mission. Protect purpose.”_  
-> Personal motto: **Structor systematum. Defensor propositi.**
-
+> **Personal Motto:** Structor systematum. Defensor propositi.
