@@ -1,10 +1,11 @@
 # William Hall — Systems-Focused Developer
 
-Former aerospace technician turned control systems researcher.  
-Focused on building high-integrity platforms using C++, Python, and Linux.
+Former aerospace technician turned embedded systems researcher.  
+I design high-integrity platforms rooted in PLC control, automation security, and reproducible education tools.
 
-Rooted in embedded logic, industrial automation, and cybersecurity.  
-Driven by process clarity, mission alignment, and systems resilience.
+Current focus: **PLC education + HMI integration using the Arduino Opta**  
+Driven by mission clarity, process fidelity, and system resilience.
+
 
 ---
 
@@ -57,8 +58,8 @@ Arduino PLC IDE, VS Code, Arduino IDE, CMake, g++, make
 **Embedded Systems & Automation:**  
 Arduino Opta, Modbus TCP, SCADA (Ignition), DIN Simul8, serial comms, GPIO, I2C
 
-**Operating Systems:**  
-Pop!_OS, Ubuntu Server, Windows 11 Pro
+**Slicing & Prototyping:**  
+Bambu Studio, Fusion 360, DIN rail modeling, STL/3MF layout
 
 **Security & Networking:**  
 Docker, WireShark, Git, OpenSSH, Tailscale
