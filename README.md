@@ -165,9 +165,9 @@ Building comprehensive research documentation in embedded systems and ICS securi
 
 ## Connect & Collaborate
 
-**Research Inquiries:** [Your Academic Email]  
-**Professional Network:** [LinkedIn Profile]  
-**University Page:** [UICDA Research Profile]
+**Research Inquiries:** [hall4024@vandals.uidaho.edu]
+**Professional Network:** [https://www.linkedin.com/in/william-hall-aa162921/]  
+
 
 <div align="center">
 
