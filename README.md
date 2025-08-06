@@ -161,14 +161,6 @@ Building comprehensive research documentation in embedded systems and ICS securi
 - **Infrastructure:** Building reproducible, scalable laboratory systems for cybersecurity education
 - **Documentation:** Creating comprehensive curriculum materials and instructor resources
 
----
-
-## Connect & Collaborate
-
-**Research Inquiries:** [hall4024@vandals.uidaho.edu]
-**Professional Network:** [https://www.linkedin.com/in/william-hall-aa162921/]  
-
-
 <div align="center">
 
 ---
