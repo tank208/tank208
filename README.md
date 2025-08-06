@@ -10,7 +10,7 @@ Driven by mission clarity, process fidelity, and system resilience.
 
 [![GitHub followers](https://img.shields.io/github/followers/tank208?label=Followers&style=social)](https://github.com/tank208)
 [![GitHub stars](https://img.shields.io/github/stars/tank208?label=Stars&style=social)](https://github.com/tank208)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/william-hall-aa162921/)
 [![University](https://img.shields.io/badge/University-Idaho%20CDA-green?style=flat&logo=graduation-cap)](https://www.uidaho.edu/)
 
 </div>
