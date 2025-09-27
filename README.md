@@ -31,7 +31,15 @@ Next Phase: Graduate research in industrial control system security architecture
 
 ## Featured Projects
 
-### PLC Student Demo Platform *(Active Research)*
+### Zero Trust Latency Testbed (Active Research)
+- Raspberry Pi–based measurement platform for latency & jitter in OT/ICS environments
+- Objective: Quantify timing stability of baseline LAN vs. Zero Trust (ZT) overlays
+- Technologies: Raspberry Pi 4B (8GB), Chrony, iperf, custom Python parsing
+- Impact: Reproducible research data on ZT adoption risks in ICS/OT networks
+- Context: University of Idaho Cybersecurity research with faculty advisors
+→ [Zero Trust Latency Testbed](https://github.com/tank208/latency-jitter-ztn)
+
+### PLC Student Demo Platform
 **Research-grade PLC training system** built on Arduino Opta
 - **Technologies:** Ladder Logic, IEC 61131-3, Modbus TCP integration
 - **Integration:** SCADA-ready via Ignition HMI
@@ -46,14 +54,6 @@ Next Phase: Graduate research in industrial control system security architecture
 - **Architecture:** Clean Python package structure with comprehensive error handling
 - **Applications:** Research prototyping, educational demonstrations, OT security testing
   → [PLC-Bridge Repository](https://github.com/tank208/plc-bridge)  
-
-### Astral Arena *(Portfolio Archive)*
-**C++/SFML space dueling game** with animated UI
-- **Technical Focus:** Custom game menu, sound toggle, ESC-hold exit logic
-- **Collaboration:** Team-built with modular design for UI/UX exploration
-- **Academic Context:** Final project for CS151 at North Idaho College
-- **Skills Demonstrated:** C++ OOP, graphics programming, team collaboration
-  → [Astral Arena Repository](https://github.com/tank208/astral-arena)
 
 ---
 
