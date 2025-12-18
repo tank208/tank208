@@ -23,7 +23,7 @@ Driven by mission clarity, process fidelity, and system resilience.
 **Focus Areas:** OT/ICS Security • Industrial Automation • Educational Infrastructure
 
 ```
-Current Research: Building scalable PLC education platforms for cybersecurity curriculum
+Current Research: Time synchronization, latency, and jitter measurement in OT/ICS networks
 Next Phase: Graduate research in industrial control system security architectures
 ```
 
@@ -53,7 +53,16 @@ Next Phase: Graduate research in industrial control system security architecture
 - **Features:** Automation safety protocols, modular lab system integration
 - **Architecture:** Clean Python package structure with comprehensive error handling
 - **Applications:** Research prototyping, educational demonstrations, OT security testing
-  → [PLC-Bridge Repository](https://github.com/tank208/plc-bridge)  
+  → [PLC-Bridge Repository](https://github.com/tank208/plc-bridge)
+
+### Secure C Calculator (Archived — Verified Security Artifact)
+**Hardened C utility demonstrating defensive parsing and fuzz-verified robustness**
+- **Purpose: Secure coding exercise emphasizing correctness over features**
+- **Security Controls: Strict input grammar, bounded strings, integer safety**
+- **Verification: AFL fuzzed (~14.5 hours, ~143M executions, zero crashes/hangs)**
+- **Context: Developed for a Secure Coding course at the University of Idaho**
+- **Status: Complete and intentionally archived after meeting security objectives**
+→ [Secure C Calculator](https://github.com/tank208/secure_c_calculator)
 
 ---
 
@@ -129,11 +138,11 @@ Obsidian • OneNote • Technical Writing • Curriculum Development
 
 **Current:** University of Idaho – Coeur d'Alene  
 **Degree:** B.S. Cybersecurity (ICS/OT Security Track)  
-**Role:** Research Assistant – PLC lab integration, embedded system deployment
+**Role:** Undergraduate Research Assistant – Time synchronization, latency, and jitter measurement in OT/ICS networks
 
 **Completed:** North Idaho College  
 **Degree:** A.S. Computer Science  
-**Highlights:** Dean's List, CS151 Team Project Leadership
+**Highlights:** Dean's List, Team Project Leadership
 
 **Research Portfolio:**  
 Building comprehensive research documentation in embedded systems and ICS security for graduate study preparation and laboratory deployment initiatives.
@@ -156,10 +165,10 @@ Building comprehensive research documentation in embedded systems and ICS securi
 
 ## Current Objectives
 
-- **Research:** Expanding PLC education platform capabilities with advanced HMI integration
-- **Security:** Developing OT/ICS security testing methodologies for educational environments  
-- **Infrastructure:** Building reproducible, scalable laboratory systems for cybersecurity education
-- **Documentation:** Creating comprehensive curriculum materials and instructor resources
+- **Research:** Time synchronization, latency, and jitter measurement in OT/ICS networks
+- **Security:** Understanding timing-related failure modes and attack surfaces in industrial systems
+- **Infrastructure:** Building reproducible measurement testbeds (Raspberry Pi, PLC-adjacent systems)
+- **Documentation:** Producing research-grade notes, datasets, and methodology artifacts
 
 <div align="center">
 
