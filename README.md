@@ -3,7 +3,7 @@
 **Former aerospace technician turned embedded systems researcher.**  
 I design high-integrity platforms rooted in PLC control, automation security, and reproducible education tools.
 
-**Current focus:** **PLC education + HMI integration using the Arduino Opta**  
+**Current focus:** **Time synchronization, latency, and jitter in OT/ICS networks**  
 Driven by mission clarity, process fidelity, and system resilience.
 
 <div align="center">
