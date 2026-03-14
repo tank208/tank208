@@ -1,4 +1,4 @@
-# William Hall — Systems-Focused Developer
+# William Hall — ICS Time Sync & OT Security Engineer
 
 **Former aerospace technician turned embedded systems researcher.**  
 I design high-integrity platforms rooted in PLC control, automation security, and reproducible education tools.
@@ -31,13 +31,13 @@ Next Phase: Graduate research in industrial control system security architecture
 
 ## Featured Projects
 
-### Zero Trust Latency Testbed (Active Research)
-- Raspberry Pi–based measurement platform for latency & jitter in OT/ICS environments
-- Objective: Quantify timing stability of baseline LAN vs. Zero Trust (ZT) overlays
-- Technologies: Raspberry Pi 4B (8GB), Chrony, iperf, custom Python parsing
-- Impact: Reproducible research data on ZT adoption risks in ICS/OT networks
-- Context: University of Idaho Cybersecurity research with faculty advisors
-→ [Zero Trust Latency Testbed](https://github.com/tank208/latency-jitter-ztn)
+### ICS Time Sync & Zero Trust Testbed (Active Research)
+- Raspberry Pi–based platform for time synchronization, latency, and jitter measurement in OT/ICS environments
+- Objective: Quantify NTP/PTP timing stability over baseline LAN vs. zero-trust (ZT) overlays
+- Technologies: Raspberry Pi 4B (8GB), chrony, iperf3, Python analysis pipeline (ADEV, CDF/CCDF, cascade metrics)
+- Impact: Reproducible timing data and methods for ICS/OT engineers considering ZT and GNSS/PTP upgrades
+- Context: University of Idaho cybersecurity research with faculty advisors  
+  → [ICS Time Sync / Latency Testbed](https://github.com/tank208/ics-time-sync-phase2)
 
 ### PLC Student Demo Platform
 **Research-grade PLC training system** built on Arduino Opta
@@ -167,7 +167,7 @@ Building comprehensive research documentation in embedded systems and ICS securi
 
 - **Research:** Time synchronization, latency, and jitter measurement in OT/ICS networks
 - **Security:** Understanding timing-related failure modes and attack surfaces in industrial systems
-- **Infrastructure:** Building reproducible measurement testbeds (Raspberry Pi, PLC-adjacent systems)
+- **Infrastructure:** Building reproducible Pi-based timing testbeds and preparing for a GNSS-disciplined grandmaster clock
 - **Documentation:** Producing research-grade notes, datasets, and methodology artifacts
 
 <div align="center">
