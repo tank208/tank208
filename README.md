@@ -34,10 +34,10 @@ Next Phase: Graduate research in industrial control system security architecture
 ### ICS Time Sync & Zero Trust Testbed (Active Research)
 - Raspberry Pi–based platform for time synchronization, latency, and jitter measurement in OT/ICS environments
 - Objective: Quantify NTP/PTP timing stability over baseline LAN vs. zero-trust (ZT) overlays
-- Technologies: Raspberry Pi 4B (8GB), chrony, iperf3, Python analysis pipeline (ADEV, CDF/CCDF, cascade metrics)
+- Technologies: Raspberry Pi 5, GPS/RTC, chrony, Python analysis pipeline (ADEV, CDF/CCDF, cascade metrics)
 - Impact: Reproducible timing data and methods for ICS/OT engineers considering ZT and GNSS/PTP upgrades
 - Context: University of Idaho cybersecurity research with faculty advisors  
-  → [ICS Time Sync / Latency Testbed](https://github.com/tank208/ics-time-sync-phase2)
+  → [ICS Time Sync / Latency Testbed](https://github.com/tank208/ics-time-sync-phase3)
 
 ### PLC Student Demo Platform
 **Research-grade PLC training system** built on Arduino Opta
@@ -137,11 +137,11 @@ Obsidian • OneNote • Technical Writing • Curriculum Development
 ## Academic Journey
 
 **Current:** University of Idaho – Coeur d'Alene  
-**Degree:** B.S. Cybersecurity (ICS/OT Security Track)  
-**Role:** Undergraduate Research Assistant – Time synchronization, latency, and jitter measurement in OT/ICS networks
+**Degree:** B.S. Cybersecurity (ICS/OT Security Track) 2028
+**Role:** Undergraduate Researcher – Time synchronization, latency, and jitter measurement in OT/ICS networks
 
 **Completed:** North Idaho College  
-**Degree:** A.S. Computer Science  
+**Degree:** A.S. Computer Science 2026
 **Highlights:** Dean's List, Team Project Leadership
 
 **Research Portfolio:**  
